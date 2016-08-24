@@ -1,0 +1,29 @@
+# Subroutine and Libraries
+---
+
+## C\# Elements
+* Namespace
+  * Class *(template of creating objects in OOP)*
+    * Method *(One *`Main()`* method for initial code execution)*
+      * Statements
+
+### Methods
+* Functions of Clases
+  * Well, OOP call those "object's actions" as __Methods__.
+
+#### Primitive Methods
+* NOT Derived from any function
+* Built in into C#
+* Examples:
+  * `Parse()`
+  * `Convert.To**()`
+  * `x.Equals(y)`, which is the same as boolean operator `x==y`
+  * __WARNING!:__ `Math.PI` is NOT the method, yet it is the property of `Math` class. (More information to be learnt in OOP Class.)
+
+### Sirakorn's notes
+* Do write code in functions (encapsulation!).
+  * Make the code reusable.
+  * Make the code easier to debug.
+  * Leads to a good practice in TDD, where logical codes are separated into small functions, making it easier to test.
+    * For more complicated system, breaking code in to a yet longer, but small functions,
+      * Unit testing, should you be interested.
