@@ -20,9 +20,9 @@
   * TGIF: Friday meeting, globally.
     * Create inspirations.
     * __Creativity begins from sharing.__
-    * Share "failed" experience
-      * __Transparency__ is the keyword
-      * Employee __trust__.
+      * Share "failed" experience
+    * __Transparency__ is the keyword
+    * Employee __trust__.
 * Not only share, but __feedback__.
   * [Dogfooding](https://en.wikipedia.org/wiki/Eating_your_own_dog_food).
 
@@ -30,3 +30,14 @@
 * Be you
 * Diversity matters
 * Building happy
+  * Career grow
+
+## Google today
+* 60k+ "Googlers"
+* 100 offices in 50 countries
+* 58 spoken languages
+* 1.4b+ active Android users
+* 1b+ Chrome users
+* 300 hrs. of YouTube upload per minute
+
+> Hobbies: Coding, Mapping, Moonshots, April Fools'
