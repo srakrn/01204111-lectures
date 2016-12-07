@@ -14,7 +14,6 @@
     * Google Photos comes in handy.
 
 ## The culture
-
 ### Business culture
 * It's all about sharing
   * TGIF: Friday meeting, globally.
@@ -54,6 +53,44 @@
   * Global internet users
     * Elevate from 3b to 4b
     * More stable and more affordable
-      * Loon is the example.
-  * Mobile first.
-  
+    * Roles
+      * Work with operators.
+      * Make Google more bandwidth friendly.
+        * 10x bandwidth, 33% faster.
+      * Works offline
+        * Maps and YouTube offline
+        * PWA?
+      * __In your languages__
+        * Google Translate
+      * Platforms for local innovation
+
+> Long road ahead, but the future is exciting.
+
+## Opportunity for students
+* Looking for
+  * Software Engineer
+    * Full-time
+    * Internship
+      * Demonstrate your true potential, with time.
+
+### Engineering internship programme
+* 14 week
+* Many teams
+
+### Women techmakers
+* To support more women's role in tech field.
+
+### APAC University Tests
+[code.google.com/codejam/apactest](code.google.com/codejam/apactest)
+* Problem and Coding
+* Assess and Sharpen your skills
+* *Maybe* get interviewed with Google!
+* __Practice date in Feb and real rounds in March__
+
+## Google is looking out for...
+* General Cognitive Ability (GCA)
+* Leadership
+* Role-Related Knowledge
+* Googleyness
+  * "Push themselves to grow outside of their comfort zone"
+* 
