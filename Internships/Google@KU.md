@@ -93,4 +93,17 @@
 * Role-Related Knowledge
 * Googleyness
   * "Push themselves to grow outside of their comfort zone"
-* 
+
+## Resume 101: Do's and Don't's
+### Do's
+* One page ONLY.
+* Standard format. STANDARD. FORMAT.
+* Clean, simple formatting.
+* Bullet points.
+* Actions words when appropriated.
+  * "Created srakrnARSE"
+* Note the results. Number == good.
+  * "1.2x faster runtime"
+  * "112% sales rate"
+* Be clear.
+* *__Correct__* contact info
