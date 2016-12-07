@@ -41,3 +41,8 @@
 * 300 hrs. of YouTube upload per minute
 
 > Hobbies: Coding, Mapping, Moonshots, April Fools'
+
+## Google in Asia
+* Centre in Singapore for "the world's fastest growing market"
+  * 3.5b+ people
+* Singapore is "a launchpad for tech giants and startups"
