@@ -46,3 +46,12 @@
 * Centre in Singapore for "the world's fastest growing market"
   * 3.5b+ people
 * Singapore is "a launchpad for tech giants and startups"
+
+## Building for the next billion
+* When the market *transits* from America to Asia/SEA
+  * Truly *the next billion*.
+* Challenges
+  * Global internet users
+    * Elevate from 3b to 4b
+    * More stable and more affordable
+      * Loon is the example.
