@@ -55,3 +55,5 @@
     * Elevate from 3b to 4b
     * More stable and more affordable
       * Loon is the example.
+  * Mobile first.
+  
