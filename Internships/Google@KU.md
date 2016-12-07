@@ -15,6 +15,7 @@
 
 ## The culture
 
+### Business culture
 * It's all about sharing
   * TGIF: Friday meeting, globally.
     * Create inspirations.
@@ -24,4 +25,8 @@
       * Employee __trust__.
 * Not only share, but __feedback__.
   * [Dogfooding](https://en.wikipedia.org/wiki/Eating_your_own_dog_food).
-  
+
+### The people
+* Be you
+* Diversity matters
+* Building happy
