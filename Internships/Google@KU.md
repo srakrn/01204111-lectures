@@ -94,16 +94,78 @@
 * Googleyness
   * "Push themselves to grow outside of their comfort zone"
 
-## Resume 101: Do's and Don't's
+## Resume 101: Do's and Don'ts
 ### Do's
-* One page ONLY.
+* One page ONLY
 * Standard format. STANDARD. FORMAT.
-* Clean, simple formatting.
-* Bullet points.
-* Actions words when appropriated.
+* Clean, simple formatting
+* Bullet points
+* Actions words when appropriated
   * "Created srakrnARSE"
-* Note the results. Number == good.
+* Note the results. Number == good
   * "1.2x faster runtime"
   * "112% sales rate"
-* Be clear.
-* *__Correct__* contact info
+* Be clear
+* *__Correct__* contact info.
+
+### Don'ts
+* Over-decoration
+* Unreadable fonts
+* "Job description" resume
+* Unprofessional account ID
+  * `inwza55@live.com`
+* Irrelevant experience
+  * For the application of Software Engineer, I have visited Phu Kradung.
+* Typogarphy eror
+* Fake content
+* Same resume from past openings
+
+## Google's tech interviews
+### What to be expected?
+* Short introduction
+* Technical assessment (QAs)
+* Close with your questions
+* No "puzzle questions". (They don't reflect your coding ability)
+
+### Forms of problems
+* How would you (task)
+  * E.g.:
+    * Build a function that takes X and returns Y
+    * Must work in O(n) time, and return ... for <sample data>
+    * What is the efficiency of your solution?
+* Typical approach
+  * Try the "idiot" solution first. (O(n^2) O(n^3), doesn't matter.)
+  * Ask questions
+  * Consider alternative approaches (Tried O(n log(n))?)
+* __Make the interviewer understand your approach__
+
+> Think out loud and ask your questions!
+
+> Your thought process is more important!
+
+## Core skills
+* Algorithms
+* Data structures
+  * Hash tables, tree, stacks, heaps
+* Big-O, multithreading, memory, big numbers,
+  * System design
+* ACTUAL Code
+  * C++, Python, or Java is recommended.
+  * The interviewer compiles code __in his head__.
+
+[g.co/techdevguide](g.co/techdevguide)
+
+## Candidate evolution
+* How did he analyse the problem?
+* How many edge cases has he identified?
+* methodically
+* concepts
+* working code? tested?
+* maintainability
+* explain
+* Googley
+
+### Test question
+Write a programme to determine if a larger string contains the letters of another string.
+
+# Thank you!
